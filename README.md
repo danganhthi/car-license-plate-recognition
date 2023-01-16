@@ -1,13 +1,8 @@
 # VIETNAMESE_LICENSE_PLATE using KNN and openCV
-Check out my 2 YOUTUBE channels for more:
-1. [Mrzaizai2k - AI](https://www.youtube.com/channel/UCFGCVG0P2eLS5jkDaE0vSfA) (NEW)
-2. [Mrzaizai2k](https://www.youtube.com/channel/UCCq3lQ1W437euT9eq2_26HQ) (old)
 
-**English below**
+Chương trình nhận dạng biển số xe trong kho bãi, được dùng cho biển số xe Việt Nam cả 1 và 2 hàng. Sử dụng xử lý ảnh OpenCV và thuật toán KNN.
 
-Chương trình nhận dạng biển số xe trong kho bãi, được dùng cho biển số xe Việt Nam cả 1 và 2 hàng. Sử dụng xử lý ảnh OpenCV và thuật toán KNN. Chi tiết mình sẽ làm một video youtube cập nhật sau.
-
-This project using the machine learning method called KNN and OpenCV, which is a powerful library for image processing for recognising the Vietnamese license plate in the parking lot. The detail would be in the youtube link below: 
+This project using the machine learning method called KNN and OpenCV, which is a powerful library for image processing for recognising the Vietnamese license plate in the parking lot. : 
 
 HOW TO USE:
 * To test on image, run `Image_test2.py`. Remember to change the path of image in `data/image/`
@@ -17,13 +12,9 @@ HOW TO USE:
 * `Preprocess.py` contains functions for image processing
 * Remember to set up neccesary libraries in `requirements.txt` 
 
-Các bạn có thể tìm hiểu thêm tại [LINK YOUTUBE:](https://youtu.be/7erlCp6d5w8)
+Đọc file `BaoCaoDoAn_ThiGiacMayTinh.docx` để biết thêm lý thuyết.
 
-More about this project on [YOUTUBE:](https://youtu.be/7erlCp6d5w8)
-
-Đọc file `Nhận diện biển số xe.docx` để biết thêm lý thuyết.
-
-For more information, please download the `Nhận diện biển số xe.docx` file
+For more information, please download the `BaoCaoDoAn_ThiGiacMayTinh.docx` file
 
 ## CÁC BƯỚC CHÍNH TRONG CỦA 1 BÀI TOÁN NHẬN DẠNG BIỂN SỐ XE
 **The main stages in the license plate recoginition algorithm**
